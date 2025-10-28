@@ -1,10 +1,4 @@
 .env
-04*Resp/*
-09*/*
-10*/*
-11*/*
-12*/*
-Ans*/*
 **/debug.log
 __pycache__
 .chainlit
